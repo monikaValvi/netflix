@@ -1,6 +1,6 @@
 # netflix
 <h3 align="center">Netflix Clone</h3>
-<h5 align="center">I have created Netflix clone for educational purpose.</h5>
+<h5 align="center">Netflix clone for educational purpose.</h5>
 <br></br>
 <img src= "https://github.com/monikaValvi/netflix/assets/55373533/60f83b38-8d83-4fcb-8f55-91964254d580">
 <h3 align="center"> Used Following languages</h3>
